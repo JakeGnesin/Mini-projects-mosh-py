@@ -25,6 +25,8 @@
 #     gen_numb()
 #     check_cows_bulls()
 
+# //------- proper code below ------//
+
 import random
 
 # Generate a 4-digit number with unique digits
